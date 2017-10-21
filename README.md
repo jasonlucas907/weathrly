@@ -1,6 +1,6 @@
 # WEATHRLY
 
-![Sample UI](https://media.giphy.com/media/seWSaM03EnX6U/giphy-downsized-large.gif)
+![Sample UI](https://media.giphy.com/media/Oq6qIGAeqKUb6/giphy-downsized-large.gif)
 
 ## Synopsis
 It’s important to know what Mother Nature is going to throw at you each day – what if you wear flip flops because it’s sunny and 65 degrees in the morning and then it snows all afternoon (this is Colorado, after all).
